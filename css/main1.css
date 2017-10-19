@@ -1,0 +1,19 @@
+div{
+    
+    background-color: rgba(252, 210, 4, 0.932);
+    width: 1800px;
+    height: 100px;
+    margin-left:15px;
+    margin-top:10px;
+}
+p{
+    font-size: 15px;
+    margin:10px;
+    
+}
+.text{
+     background-color: rgb(44, 32, 23);
+     color:white;
+}
+
+

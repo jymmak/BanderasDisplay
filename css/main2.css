@@ -1,0 +1,16 @@
+div{
+    width:300px;
+    height:150px;
+    background-color:rgba(252, 210, 4, 0.932);
+    margin-left:15px;
+    margin-top:10px;
+}
+p{
+    font-size:20px;
+    margin:10px;
+}
+
+.text{
+    background-color:rgb(44, 32, 23);
+    color:white;
+}
